@@ -17,7 +17,6 @@ import java.awt.Graphics2D;
  */
 public class CanvasWindow {
     Frame f = new Frame();
-    Canvas c = new Canvas();
 
     public CanvasWindow() {
         f.setSize(400, 400);
